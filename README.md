@@ -1,4 +1,7 @@
-### Hi there 👋
+### Socials
+<a href='https://www.linkedin.com/in/timothy-liu-4a738619b/'> <image src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png'\> </a>
+
+<a href='https://github.com/timothyliutl'> <image src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'> </a>
 
 <!--
 **timothyliutl/timothyliutl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
