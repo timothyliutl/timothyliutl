@@ -1,19 +1,16 @@
+### Hello! <br/>
+I'm Timothy Liu, a 4th year student at Queen's University Engineering.
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=timothyliutl)](https://github.com/timothyliutl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyliutl&layout=compact)](https://github.com/timothyliutl)
+
+<hr/>
+
 ### Socials
-<a href='https://www.linkedin.com/in/timothy-liu-4a738619b/'> <image src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png'\> </a>
+<p>
+<a href='https://www.linkedin.com/in/timothy-liu-4a738619b/'> <image src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' width='50'> </a>
+<a href='https://github.com/timothyliutl'> <image src='https://iconape.com/wp-content/png_logo_vector/github-square.png' width='53' > </a>
+<a href='https://tracker.gg/valorant/profile/riot/GentianViolet%231231/overview'> <image src='https://seeklogo.com/images/V/valorant-logo-3D72D9117F-seeklogo.com.png' width="50"> </a>
 
-<a href='https://github.com/timothyliutl'> <image src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'> </a>
-
-<!--
-**timothyliutl/timothyliutl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
