@@ -25,7 +25,7 @@ I'm Timothy Liu, a 4th year student at Queen's University Engineering.
 
 <a href='https://www.linkedin.com/in/timothy-liu-4a738619b/'><image src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 <a href= 'https://github.com/timothyliutl'><image src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'></a>
-<a href='https://tracker.gg/valorant/profile/riot/GentianViolet%231231/overview'><image src='https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white'></a>
+<a href='https://blitz.gg/valorant/profile/gentianviolet-1231'><image src='https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white'></a>
 
 
 </p>
