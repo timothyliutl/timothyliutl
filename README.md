@@ -3,6 +3,10 @@ I'm Timothy Liu, a 4th year student at Queen's University Engineering.
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=timothyliutl)](https://github.com/timothyliutl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyliutl&layout=compact)](https://github.com/timothyliutl)
 
+
+![](https://komarev.com/ghpvc/?username=timothyliutl&style=for-the-badge)
+
+
 ### What I code with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
