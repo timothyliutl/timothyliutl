@@ -1,4 +1,4 @@
-I'm Timothy Liu, a 4th year student at Queen's University Engineering.
+I'm Timothy Liu, a 4th year Mathematics and Engineering student at Queen's University.
 
 ![](https://komarev.com/ghpvc/?username=timothyliutl&style=for-the-badge)
 
