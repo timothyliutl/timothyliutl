@@ -1,6 +1,4 @@
-I'm Timothy Liu, a 4th year Mathematics and Engineering student at Queen's University.
-
-![](https://komarev.com/ghpvc/?username=timothyliutl&style=for-the-badge)
+I'm Timothy Liu, a Applied Mathematics Master’s Student at Queen's University.
 
 
 ### What I code with
