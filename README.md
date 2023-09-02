@@ -1,4 +1,4 @@
-I'm Timothy Liu, a Applied Mathematics Master’s Student at Queen's University.
+I'm Timothy Liu, an Applied Mathematics Master’s Student at Queen's University.
 
 
 ### What I code with
